@@ -71,7 +71,7 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 📊 GitHub Analytics
 
-<table>
+<table align = "center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=HarshRajj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
