@@ -2,7 +2,7 @@
 
 #Hey, I'm Harsh Raj
 
-### A [assionate AI/ML Engineer | Full-Stack Developer 
+### A passionate AI/ML Engineer
 
 *Specializing in Deep Learning and conversational AI agents*
 *Building the future, one intelligent system at a time*
