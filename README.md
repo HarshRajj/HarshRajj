@@ -1,9 +1,10 @@
 <div align="center">
 
-# 🌟 Hey there, I'm Harsh Raj! 🌟
+#Hey, I'm Harsh Raj
 
-### 🚀 AI/ML Engineer | Full-Stack Developer | Voice AI Innovator
+### A [assionate AI/ML Engineer | Full-Stack Developer 
 
+*Specializing in Deep Learning and conversational AI agents*
 *Building the future, one intelligent system at a time*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building!)](https://git.io/typing-svg)
