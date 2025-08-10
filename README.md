@@ -54,18 +54,11 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 - **🛠️ Tech Stack:** LiveKit, LlamaIndex, Zilliz, Deepgram, Cartesia, OpenAI GPT-4
 - **💡 Innovation:** Seamlessly combines RAG with voice interaction for next-level AI experiences
 
-### 🤖 **[Agentic Chatbot](https://github.com/HarshRajj/Agentic-chatbot)**
-> *Smart AI agent with web search capabilities*
-- **🔍 Features:** LangChain-powered agents, Tavily search integration, multi-model support (Groq LLaMA, OpenAI GPT)
-- **⚡ Tech:** LangChain Agents, Groq API, OpenAI API, Tavily Search
-- **🎯 Special:** Dynamic model switching and intelligent web search integration
-
 ### 🏢 **[WeaponWise Defense Management System](https://github.com/HarshRajj/weaponwise-defma)**
 > *Full-stack defense inventory management with real-time capabilities*
 - **📊 Features:** Real-time inventory tracking, automated returns, comprehensive dashboards, SocketIO integration
 - **🔧 Tech:** React, Flask, Supabase, SocketIO, real-time data processing
 - **🚀 Impact:** Streamlines defense inventory operations with modern web technologies
-
 
 ### 📝 **[FastAPI Notes Application](https://github.com/HarshRajj/fastapi-notes-app)**
 > *Modern backend architecture for efficient note management*
@@ -83,10 +76,10 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 ![HarshRajj's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRajj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+</div> 
+<div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajj&theme=tokyonight&hide_border=true&background=0D1117)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshRajj&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
