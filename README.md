@@ -71,13 +71,13 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div>
 
 ![HarshRajj's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshRajj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRajj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
 </div> 
-<div>
+<div align = "center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshRajj&theme=tokyonight&hide_border=true&background=0D1117)
 
