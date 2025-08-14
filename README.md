@@ -2,7 +2,7 @@
 
 # Hey, I'm Harsh Raj
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building!)](https:[...]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building!)
 
 *Building the future, one intelligent system at a time*
 
