@@ -9,6 +9,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshRajj&color=blueviolet&style=for-the-badge)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajj04)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshrajj04)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshrajj04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HarshRajj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajj04@gmail.com)
+
+**🤝 Open to collaborations, freelance projects, and innovative AI ventures!**
+
 </div>
 
 ---
@@ -25,9 +33,9 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div>
 
-### 🤖 AI/ML & Voice Technologies
+### 🤖 AI and Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -48,7 +56,7 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 🚀 Featured Projects
 
-### 🎙️ **[LiveKit RAG Voice AI Agent](https://github.com/HarshRajj/rag-voice-ai)** 
+### 🎙️ **[Hosipital Voice Agent (Rag)](https://github.com/HarshRajj/)** 
 > *Revolutionary voice AI that understands and responds in real-time*
 - **🌟 Key Features:** Real-time speech processing, intelligent document querying, natural voice responses
 - **🛠️ Tech Stack:** LiveKit, LlamaIndex, Zilliz, Deepgram, Cartesia, OpenAI GPT-4
@@ -89,16 +97,6 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ---
 
-## 🌱 Beyond the Code
-
-- 🧑‍🏫 **Teaching:** Passionate about sharing knowledge in **Mathematics & Physics**
-- 🎨 **Creative Side:** Love expressing ideas through **drawing and art**
-- 🤖 **Research:** Always exploring cutting-edge **AI/ML technologies**
-- 💡 **Innovation:** Constantly building projects that bridge theory and practice
-- 🌟 **Mission:** Making AI accessible and beneficial for everyone
-
----
-
 ## 💫 Personal Philosophy
 
 <div align="center">
@@ -113,27 +111,12 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshRajj&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajj04)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshrajj04)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshrajj04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/HarshRajj/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshrajj04@gmail.com)
-
-**🤝 Open to collaborations, freelance projects, and innovative AI ventures!**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshRajj&theme=tokyonight&no-frame=true&column=9&margin-w=15&margin-h=15)
 
 </div>
+
 
 ---
 
