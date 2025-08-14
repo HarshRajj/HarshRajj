@@ -56,24 +56,29 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 
 ## 🚀 Featured Projects
 
-### 🎙️ **[Hosipital Voice Agent (Rag)](https://github.com/HarshRajj/)** 
-> *Revolutionary voice AI that understands and responds in real-time*
-- **🌟 Key Features:** Real-time speech processing, intelligent document querying, natural voice responses
-- **🛠️ Tech Stack:** LiveKit, LlamaIndex, Zilliz, Deepgram, Cartesia, OpenAI GPT-4
-- **💡 Innovation:** Seamlessly combines RAG with voice interaction for next-level AI experiences
+<details>
+  <summary><span style="font-size:1.2em; font-weight:bold;">Hosipital Voice Agent (Rag)</span></summary>
+  <p>
+    Real-time voice AI with advanced RAG, voice interaction, and document querying.<br>
+    <a href="https://github.com/HarshRajj/" target="_blank">View on GitHub</a>
+  </p>
+</details>
 
-### 🏢 **[WeaponWise Defense Management System](https://github.com/HarshRajj/weaponwise-defma)**
-> *Full-stack defense inventory management with real-time capabilities*
-- **📊 Features:** Real-time inventory tracking, automated returns, comprehensive dashboards, SocketIO integration
-- **🔧 Tech:** React, Flask, Supabase, SocketIO, real-time data processing
-- **🚀 Impact:** Streamlines defense inventory operations with modern web technologies
+<details>
+  <summary><span style="font-size:1.2em; font-weight:bold;">WeaponWise Defense Management System</span></summary>
+  <p>
+    Full-stack defense inventory tracking with real-time dashboards and automation.<br>
+    <a href="https://github.com/HarshRajj/weaponwise-defma" target="_blank">View on GitHub</a>
+  </p>
+</details>
 
-### 📝 **[FastAPI Notes Application](https://github.com/HarshRajj/fastapi-notes-app)**
-> *Modern backend architecture for efficient note management*
-- **⚡ Features:** RESTful API design, modern Python backend architecture
-- **🔧 Tech:** FastAPI, Python, modern web development practices
-
-
+<details>
+  <summary><span style="font-size:1.2em; font-weight:bold;">FastAPI Notes Application</span></summary>
+  <p>
+    Modern FastAPI backend for efficient note management and RESTful APIs.<br>
+    <a href="https://github.com/HarshRajj/fastapi-notes-app" target="_blank">View on GitHub</a>
+  </p>
+</details>
 
 ---
 
@@ -121,13 +126,6 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 ---
 
 <div align="center">
-
-### 🚀 *"Turning AI dreams into reality, one line of code at a time!"* 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarshRajj&label=Profile%20Views&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHarshRajj)
-
-⭐ **Fun Fact:** I love the challenge of making AI accessible and useful for everyone!
-
 *Last updated: August 2025*
 
 </div>
