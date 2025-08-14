@@ -1,13 +1,11 @@
 <div align="center">
 
-#Hey, I'm Harsh Raj
+# Hey, I'm Harsh Raj
 
-### A passionate AI/ML Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building!)](https:[...]
 
-*Specializing in Deep Learning and conversational AI agents*
 *Building the future, one intelligent system at a time*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI%2FML+Engineer+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshRajj&color=blueviolet&style=for-the-badge)
 
@@ -17,8 +15,8 @@
 
 ## 🎯 About Me
 
-I'm a passionate technologist who thrives at the intersection of **Artificial Intelligence** and **Real-World Applications**. From crafting sophisticated **Voice AI Agents** to building **full-stack web applications**, I love turning complex problems into elegant solutions!
-
+I'm a passionate technologist who thrives at the intersection of **Artificial Intelligence** and **Real-World Applications**. From crafting sophisticated **Voice AI Agents** to building **full-sta[...]
+ 
 When I'm not coding, you'll find me **teaching mathematics and physics** or expressing creativity through **drawing** 🎨
 
 > 💡 **Currently exploring:** Advanced RAG systems, Multi-modal AI, and Real-time voice processing
@@ -34,6 +32,7 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF6B6B?style=for-the-badge&logo=webrtc&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 💻 Full-Stack Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,8 +40,9 @@ When I'm not coding, you'll find me **teaching mathematics and physics** or expr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
