@@ -22,7 +22,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate technologist who thrives at the intersection of **Artificial Intelligence** and **Real-World Applications**. From crafting sophisticated **Voice AI Agents** to building **full-sta[...]
+I'm a passionate technologist who thrives at the intersection of **Artificial Intelligence** and **Real-World Applications**. From crafting sophisticated **Voice AI Agents** to building **full-stack applications**[...]
  
 When I'm not coding, you'll find me **teaching mathematics and physics** or expressing creativity through **drawing** 🎨
 
